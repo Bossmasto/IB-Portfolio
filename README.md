@@ -1,6 +1,7 @@
 # IB Portfolio
  **Portfolio of Ivan Bezkhmelnitsyn**
  
+ [LinkedIn](https://www.linkedin.com/in/ivan-bezkhmelnitsyn-431723152/) , [Resume](https://drive.google.com/file/d/1Wj9h39c528OjUevh8JWhJK_wrAy94ufK/view?usp=sharing)
  For code samples (Unity/C#) please refer to respective folder: 
  
 ### 1. Topdown slasher game
