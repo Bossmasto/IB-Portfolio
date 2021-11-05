@@ -16,5 +16,5 @@ Extensible platforming systems: boxes, collectibles, platforms, keys/doors.
 ### 4. FPS Zombie shooter
 Basic AI, Extensible weapon, ammo, pickups system. 
  
- For example projects please refer to respective folder or for final builds to my [GDrive](https://drive.google.com/drive/folders/1uRSqC_NKzB9SRJpXT1pDK1GPLty9dPua?usp=sharing)
+ For example projects please refer to respective folder or for final builds to my [GDrive](https://drive.google.com/drive/folders/1uRSqC_NKzB9SRJpXT1pDK1GPLty9dPua?usp=sharing) and for example of gameplay to my [YouTube channel](https://www.youtube.com/channel/UCwse64ITg_i-jtAq8h0EovQ)
 
